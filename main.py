@@ -10,10 +10,9 @@ def display_title():
     "|_|  |_|\\___/  \\_/  |___|_____| |_|  |_/_/   \\_\\_| \\____|_| |_|\n\n\n")
 
 def display_description():
-    print("Welcome to Movie Match! This program will let you enter parameters "
-    "about movies and it will return a list of movies that best meet those parameters. "
-    "The list of recommended movies will be very long if you leave some parameters blank. "
-    "Enter more parameters to shorten the length of recommended movies."
+    print("Welcome to Movie Match! This program will let you enter a genre "
+    "and it will return a list of movies that fits the specified genre. "
+    "There are also some features that summarize the list of movies."
     "\n\n")
 
 def display_instructions():
